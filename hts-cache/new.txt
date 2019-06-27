@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+02:58:12	2562/2562	---MCZ	200	added ('OK')	text/html	date:Thu,%2027%20Jun%202019%2021:28:12%20GMT	https://crlt.co/ekne	C:/My%20Web%20Sites/New%20folder%20(2)/https___crlt.co_ekne/crlt.co/ekne.html	(from )
+02:58:13	1228/1228	---MCZ	200	added ('OK')	text/html	date:Thu,%2027%20Jun%202019%2021:28:13%20GMT	https://crlt.co/robots.txt		(from )
+02:58:14	962/962	---MCZ	200	added ('OK')	text/css	etag:W/%225b8841c8-3c2%22	https://crlt.co/assets/shortlink.css	C:/My%20Web%20Sites/New%20folder%20(2)/https___crlt.co_ekne/crlt.co/assets/shortlink.css	(from https://crlt.co/ekne)
+02:58:14	12487/12487	---M--	200	added ('OK')	image/png	etag:%225b091a4e-30c7%22	https://crlt.co/assets/brand.png	C:/My%20Web%20Sites/New%20folder%20(2)/https___crlt.co_ekne/crlt.co/assets/brand.png	(from https://crlt.co/ekne)
+02:58:16	2470/2470	---MCZ	200	added ('OK')	text/html	date:Thu,%2027%20Jun%202019%2021:28:16%20GMT	https://crlt.co/POST	C:/My%20Web%20Sites/New%20folder%20(2)/https___crlt.co_ekne/crlt.co/POST.html	(from https://crlt.co/ekne)
+02:58:17	1696125/1696125	---MCZ	200	added ('OK')	application/javascript	etag:W/%225c82b465-19e17d%22	https://verifypow.com/lib/verify.js	C:/My%20Web%20Sites/New%20folder%20(2)/https___crlt.co_ekne/verifypow.com/lib/verify.js	(from https://crlt.co/ekne)
